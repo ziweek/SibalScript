@@ -1,7 +1,7 @@
 # ShibalScript
 
 ## 소개
-ShibalScript는 정겨운 언어입니다.
+ShibalScript는 한국인먼의 뜨거운 정신이 살아숨쉬고있는 우리 민족만의 정겨운 언어입니다.
 
 
 ## 문법

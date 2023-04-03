@@ -1,8 +1,14 @@
 # SibalScript
+<br/>
+
+<div align="center">
+    <img src='./src/logo_sibalscript.png' width=250>
+</div>
+<br/>
 
 ## 소개
 SibalScript는 한국인먼의 뜨거운 정신이 살아숨쉬고있는 우리 민족만의 정겨운 언어입니다.
-
+<br/>
 
 ## 문법
 

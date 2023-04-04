@@ -3,6 +3,9 @@
 
 <div align="center">
     <img src='./src/logo_sibalscript.png' width="100%">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fziweek%2FSibalScript&count_bg=%233178C6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+    <br/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </div>
 <br/>
 

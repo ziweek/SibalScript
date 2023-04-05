@@ -10,7 +10,7 @@
 <br/>
 
 ## 소개
-SibalScript는 TypeScript에 영감을 받아 제작된 언어입니다.
+SibalScript는 TypeScript에서 영감을 받아 제작된 언어입니다.
 <br/>
 
 ## 문법
